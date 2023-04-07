@@ -1,0 +1,12 @@
+.story {
+  margin-top: 50px;
+  border-radius: 20px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  color: #757c98;
+  height: 62vh;
+  .name {
+    padding: 20px 0 20px 15px;
+  }
+}

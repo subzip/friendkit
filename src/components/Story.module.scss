@@ -1,0 +1,21 @@
+.story {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid #e8e8e8;
+  border-bottom: 1px solid #e8e8e8;
+  padding: 15px 15px 15px 15px;
+  width: 15vw;
+  .ava {
+    img {
+      width: 50px;
+      border-radius: 50%;
+    }
+  }
+  .desc {
+    margin-left: 10px;
+    span {
+      font-size: 12px;
+      color: #a19f9f;
+    }
+  }
+}

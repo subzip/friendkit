@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/friendkit/static/css/main.cfc08358.css",
+    "main.js": "/friendkit/static/js/main.6449a013.js",
+    "static/js/787.28cb0dcd.chunk.js": "/friendkit/static/js/787.28cb0dcd.chunk.js",
+    "static/media/1.jpg": "/friendkit/static/media/1.463adf5d464c0fd2fd3e.jpg",
+    "index.html": "/friendkit/index.html",
+    "main.cfc08358.css.map": "/friendkit/static/css/main.cfc08358.css.map",
+    "main.6449a013.js.map": "/friendkit/static/js/main.6449a013.js.map",
+    "787.28cb0dcd.chunk.js.map": "/friendkit/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfc08358.css",
+    "static/js/main.6449a013.js"
+  ]
+}
